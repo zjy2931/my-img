@@ -1,7 +1,0 @@
-ssh-keygen -t rsa -C"your_email@youremail.com"
-
-
-
-  "eslint-plugin-import": "^2.20.1",
-    "eslint-plugin-node": "^11.0.0",
-    "eslint-plugin-promise": "^4.2.1",
